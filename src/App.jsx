@@ -1,10 +1,11 @@
 import React from 'react'
+import InputBox from './components/InputBox'
 
 function App() {
 
   return (
     <div>
-      CurrencyHub
+      <InputBox></InputBox>
     </div>
   )
 }
